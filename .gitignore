@@ -1,2 +1,4 @@
+node_modules/
+node_modules
 redux_1
 .gitignore

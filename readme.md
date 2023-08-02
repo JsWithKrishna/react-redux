@@ -1,5 +1,6 @@
-![redux image](https://react-redux.js.org/img/redux-logo-landscape.png)
+<!-- ![redux image](https://react-redux.js.org/img/redux-logo-landscape.png) -->
 
+<img src="https://react-redux.js.org/img/redux-logo-landscape.png" alt="Image Description" height="100">
 # What is Redux?
 
 - Redux is a state management library for React applications, used to manage and synchronize the application state across components efficiently.
